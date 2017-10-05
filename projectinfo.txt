@@ -1,0 +1,12 @@
+This document is an example template for creating a REST API. 
+Testing is integrated in this document. 
+You can choose to use Mocha, to do so, uncomment following in package.json:
+    - "test": "mocha --compilers js:babel-register"
+    - "babel-register": "^6.26.0",
+    - "mocha": "^3.5.3",
+
+Comment following (JEST requirements): 
+    - 
+
+
+Don't forget to run npm install!
